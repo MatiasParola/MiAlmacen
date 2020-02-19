@@ -1,4 +1,4 @@
-package com.miAlmacen.entidades;
+package com.miAlmacen.web.entidades;
 
 import java.util.Date;
 

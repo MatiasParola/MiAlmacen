@@ -1,7 +1,7 @@
 
-package com.miAlmacen.repositorios;
+package com.miAlmacen.web.repositorios;
 
-import com.miAlmacen.entidades.Venta;
+import com.miAlmacen.web.entidades.Venta;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

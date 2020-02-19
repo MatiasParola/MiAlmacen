@@ -1,9 +1,9 @@
-package com.miAlmacen.servicios;
+package com.miAlmacen.web.servicios;
 
-import com.miAlmacen.entidades.Categoria;
-import com.miAlmacen.entidades.Producto;
-import com.miAlmacen.repositorios.CategoriaRepositorio;
-import com.miAlmacen.repositorios.ProductoRepositorio;
+import com.miAlmacen.web.entidades.Categoria;
+import com.miAlmacen.web.entidades.Producto;
+import com.miAlmacen.web.repositorios.CategoriaRepositorio;
+import com.miAlmacen.web.repositorios.ProductoRepositorio;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

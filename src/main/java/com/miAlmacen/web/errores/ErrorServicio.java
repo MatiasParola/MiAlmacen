@@ -1,4 +1,4 @@
-package com.miAlmacen.errores;
+package com.miAlmacen.web.errores;
 
 public class ErrorServicio extends Exception {
 public  ErrorServicio(String msn) {

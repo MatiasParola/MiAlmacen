@@ -1,8 +1,8 @@
 
 
-package com.miAlmacen.servicios;
+package com.miAlmacen.web.servicios;
 
-import com.miAlmacen.repositorios.StockRepositorio;
+import com.miAlmacen.web.repositorios.StockRepositorio;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

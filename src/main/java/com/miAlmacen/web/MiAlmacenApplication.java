@@ -1,4 +1,4 @@
-package com.miAlmacen;
+package com.miAlmacen.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
