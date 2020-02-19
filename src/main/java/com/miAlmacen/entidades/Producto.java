@@ -22,6 +22,20 @@ public class Producto {
 	@ManyToOne
 	private Categoria categoria;
 
+    public Producto() {
+    }
+
+    public Producto( String nombreProducto, double precioProducto, Categoria categoria) {
+
+        this.nombreProducto = nombreProducto;
+        this.precioProducto = precioProducto;
+        disponibilidadProducto = true;
+        this.categoria = categoria;
+    }
+        
+        
+        
+
 
 	public String getIdProducto() {
 		return idProducto;
